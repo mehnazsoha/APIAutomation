@@ -5,8 +5,10 @@ This is an automation test script for API testing
 * Gherkin
 ### Automation tool
 * Maven
+### Framework
+* Cucumber
 
-Clone it and import this project into IDE. To run this project successfully then scroll down and install the required files.
+> Clone it and import this project into IDE.
 
 ### Install Natural Plugin in Eclipse
 Install Natural plugin as Cucumber Framework Editor
